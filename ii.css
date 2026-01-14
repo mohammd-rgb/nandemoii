@@ -108,3 +108,12 @@ body {
   font-size: 12px;
   color: #777;
 }
+
+/* ふりがな表示（ruby） */
+ruby {
+  ruby-position: over;
+}
+rt {
+  font-size: 0.6em;
+  color: #666;
+}
